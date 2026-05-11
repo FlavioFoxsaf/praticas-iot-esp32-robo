@@ -1,9 +1,7 @@
 # Projeto: Robô Explorador Espacial (IoT)
 
-**Instituição:** Universidade SENAI CIMATEC  
-**Curso:** Engenharia da Computação  
-**Docentes:** Gláucya Carreiro Boechat, Claudio Junior N. da Silva  
-**Discentes:** Davih de Andrade, Flavio Fox S. A. Fernandes, Gabriel Trindade, Victor Mendes Ferreira Bittencourt  
+**Instituição:** Universidade SENAI CIMATEC   
+**Discentes:** Caio Schneider, Flavio Fox S. A. Fernandes, Henrique Rapadura 
 
 ## 🚀 Objetivo da Etapa
 Desenvolver e integrar o armazenamento de dados de sensores e a comunicação de um robô explorador físico, utilizando um backend em Python para registrar informações essenciais para a busca de vida extraterrestre.
